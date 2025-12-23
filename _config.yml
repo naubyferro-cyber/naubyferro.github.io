@@ -6,3 +6,6 @@ author:
   name: Nauane Gabriela
 
 markdown: kramdown
+
+show_excerpts: false
+
